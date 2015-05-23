@@ -1,7 +1,14 @@
-## Put comments here that give an overall description of what your
-## functions do
+## I have forked the designated remote GitHub repository and
+## subsequently cloned it locally in my home directory without
+## renaming it or the files within it, as you can see at
+## https://github.com/javierrodrigl/ProgrammingAssignment2.git
 
-## Write a short comment describing this function
+## In the "makeCacheMatrix" portion of the exercise we want to
+## create the "input" matrix for the "cacheSolve" part of the
+## assignment.
+
+## Specifically, "makeCacheMatrix"
+
 
 makeCacheMatrix <- function(x = matrix()) {
 
